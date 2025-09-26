@@ -1,0 +1,60 @@
+body {
+    background-color: #70FF7E;
+
+
+}
+
+.a1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 50px auto;
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 26px 0;
+}
+
+.a2 {
+    background-color: black;
+
+
+}
+
+.a4 {
+    color: red;
+    border-radius: 10px;
+
+
+}
+
+.red,
+.yellow,
+.green {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+
+.container-svetafor {
+    width: 450px;
+    background-color: black;
+    margin: 0 auto;
+    border-radius: 20px;
+
+    padding: 100px 0;
+}
+
+.yellow {
+    margin: 20px;
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
